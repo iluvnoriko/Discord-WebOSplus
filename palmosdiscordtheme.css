@@ -1,0 +1,728 @@
+/* popup------------------------------------------------------------------------------------------------------------------------------ */
+.theme-dark .root-g14mjS {
+    background-color: #36393f70;
+}
+.theme-dark .footer-31IekZ {
+    background-color: #2f313629;
+}
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo {
+    border-radius: 18px;
+    background: linear-gradient(
+0deg
+,#383838, black, #383838);
+}
+.lookFilled-yCfaCM.colorBrand-I6CyqQ {
+    border-radius: 18px;
+    background: linear-gradient(
+0deg
+,#383838, black, #383838);
+}
+*/Popup buddy------------------------------------------------------------------------------------------------------------------------------*/
+.userPopout-2j1gM4 {
+    background-color: #969ea5e8;
+    border-radius: 12px;
+}
+.popoutBanner-3cqRD9 {
+    background: radial-gradient(black, transparent);
+}
+.body-2wLx-E.thin-31rlnD.scrollerBase-_bVAAt {
+    text-shadow: 1px 1px 2px #00000096;
+    font-weight: 600;
+    color: white !important;
+}
+.bodyInnerWrapper-2bQs1k {
+    background-color: #869aaa00;
+    color: var(--interactive-active);
+}
+.footer-3naVBw {
+    background-color: #18191c00;
+}
+.role-2TIOKu {
+    background: linear-gradient(
+0deg
+,#383838, black, #383838);
+}
+.input-2z42oC {
+    font-size: 14px;
+    background-color: #292b2f42;
+}
+
+.inputDefault-3FGxgL {
+    padding: 2px;
+    height: 40px;
+}
+.input-2g-os5 {
+    border-radius: 11px;
+    color: white;
+    box-shadow: inset 0px 3px 3px #00000042;
+}
+/* FRIENDS------------------------------------------------------------------------------------------------------------------------------ */
+.tabBody-2dgbAs {
+    background: black;
+}
+.peopleColumn-1wMU14 {
+    background: #2b2b2b;
+    border-radius: 12px;
+    margin-bottom: 68px;
+}
+.nowPlayingColumn-1eCBCN {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 30%;
+    flex: 0 1 30%;
+    min-width: 360px;
+    max-width: 420px;
+    background: #000000;
+    border-radius: 12px;
+margin-bottom: 68px;
+}
+.container-1oAagU {
+    background-color: #2b2b2b;
+    height: 100%;
+    border-radius: 12px;
+}
+/* PRIVATE LIST ------------------------------------------------------------------------------------------------------------------------------*/
+.container-1oeRFJ {
+    padding: 0px 0;
+    border-radius: 0px;
+    border-bottom: 1px solid #171717;
+    border-top: 1px solid #ffffff1f;
+}
+.channel-1Shao0 {
+    position: relative;
+    max-width: 224px;
+    margin-left: 0px;
+}
+.scroller-WSmht3 {
+    background-color: #2f2f2fbf;
+}
+.privateChannels-oVe7HL {
+    background-color: #000000;
+}
+.children-3xh0VB .icon-2xnN2Y {
+display: none;
+}
+/* nani------------------------------------------------------------------------------------------------------------------------------ */
+.theme-dark .form-3gdLxP:before {
+    background: black;
+}
+.theme-dark .children-3xh0VB:after {
+    background: black;
+}
+.theme-dark {
+    --scrollbar-thin-thumb: transparent;
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: transparent;
+    --scrollbar-auto-track: hsl(210,calc(var(--saturation-factor, 1)*9.8%),20%);
+    --scrollbar-auto-scrollbar-color-thumb: transparent;
+    --scrollbar-auto-scrollbar-color-track: transparent;
+}
+.withFrame-2dL45i {
+    height: 18px;
+    margin-top: 0px;
+    background: black;
+}
+.wordmarkWindows-2dq6rw {
+    margin-left: 47%;
+}
+.winButton-3UMjdg {
+    top: 0px;
+}
+/* General------------------------------------------------------------------------------------------------------------------------------*/
+.container-ZMc96U.themed-Hp1KC_ {
+    background: #000000;
+}
+.appMount-2yBXZl, body {
+    background-color: black;
+border-radius: 16px;
+}
+.container-1eFtFS {
+
+    background: #000;
+background-size:cover;
+}
+.platform-win .sidebar-1tnWFu {
+    border-radius: 0px 0 0;
+}
+.base-2jDfDU, .sidebar-1tnWFu {
+ border-bottom-left-radius: 10px;
+}
+.searchBar-3TnChZ {
+background: black;
+}
+.sidebar-1tnWFu .container-1NXEtd {
+background-color: #7a8f9ed1;
+}
+.header-3OsQeK {
+    background-color: black;
+    background: linear-gradient(
+0deg
+, black, #1C1C1C, #3C3C3C);
+border-radius: 12px;
+margin-top:9px;
+padding-top: 0px;
+padding-bottom: 0px;
+margin-bottom: 6px;
+height: 30px;
+margin-right:0%;
+}
+.name-3Uvkvr {
+    text-align: center;
+}
+.scroller-3X7KbA {
+    background-color: black;
+}
+.container-1-ERn5.clickable-vvKY2q {
+    background-color: black;
+}
+.container-1-ERn5.clickable-vvKY2q {
+
+}
+.container-1zzFcN {
+    border-bottom: 0px solid var(--background-modifier-accent);
+}
+/* top menu icons & elements ----------------------------------------------------------------------------------------------------------------*/
+.clickable-ZD7xvu .icon-2xnN2Y {
+    color: #ffffff;
+    border: 1px solid #4b4c4c;
+    border-radius: 50%;
+    padding: 2px;
+    background: linear-gradient(
+0deg
+, #535756, #353535, #747474);
+}
+.topic-11NuQZ {
+    margin: 0 0 0 0px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    color: #dcdcdc;
+    text-align: center;
+}
+/* server ------------------------------------------------------------------------------------------------------------------------------*/
+.sidebar-1tnWFu {
+    background: url();
+border-right: 2px solid;
+}
+.sidebar-1tnWFu .container-1NXEtd {
+    background-color: #000000d1;
+}
+.channelName-3KPsGw, .subtitle-3PyFgf {
+    text-shadow: 1px 1px 2px #232323;
+text-align: left;
+}
+.container-1NXEtd {
+    border-radius: 12px;
+}
+.name-28HaxV {
+    color: white;
+}
+.container-q97qHp {
+    color: #EEA900;
+    text-align: left;
+    text-shadow: none;
+    font-size: initial;
+    font-weight: 600;
+    letter-spacing: -0.75px;
+   font-size: 0.85em !important;
+}
+div#channels {
+    background-color: #6d6d6d8f;
+    background: radial-gradient(ellipse at top,#5f5f5f, #232323);
+    box-shadow: inset 0px 0px 3px #000000;
+}
+.containerDefault-3TQ5YN, .containerDragAfter-1J_-1V, .containerDragBefore-ei4h1m, .containerUserOver-3woq86 {
+    padding-top: 0px;
+    border-top: 0px solid black;
+    border-bottom: 1px solid #5E4903;
+    box-shadow: 0px 4px 0px #fbae00;
+margin-bottom: 3px;
+}
+.content-2a4AW9 {
+    background-color: #00000000;
+}
+.scroller-1ox3I2 .content-2a4AW9{
+border-radius : 10px;
+
+}
+.sidebar-1tnWFu .scrollerBase-_bVAAt {
+    margin: 3px;
+    border-radius: 12px;
+}
+scroller-1ox3I2 thin-31rlnD scrollerBase-_bVAAt fade-1R6FHN{
+    padding-right: 0px !important;
+}
+.wrapper-NhbLHG {
+    padding: 0px 0;
+}
+.content-1gYQeQ {
+    border-bottom: 1px solid #1b1b1b;
+    border-top: 1px solid #6f6f6f;
+    border-right: 0px solid #6E8089;
+    border-left: 0px solid #6E8089;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    margin-bottom: 0px;
+    background: #869aaa00;
+    padding: 0 1px;
+    margin-left: 1px;
+}
+.unread-36eUEm {
+    position: absolute;
+    height: 14px;
+    width: 14px;
+    border-radius: 50%;
+    top: 36%;
+    left: 201px;
+    margin-top: -4px;
+    box-shadow: 0px 0px 6px #000000bd;
+    border-top: 1px solid #868686;
+    border-bottom: 1px solid #757575;
+    background: linear-gradient( 
+0deg
+ , #45a0ab, #36636E 36%, #26676C 42%, #5eb8c7 70%);
+    z-index: 1;
+}
+.iconContainer-21RCa3 {
+    position: relative;
+    margin-right: 6px;
+display: none;
+}
+/*AVATAR bas------------------------------------------------------------------------------------------------------------------------------ */
+.panels-3wFtMD {
+    background-color: #292b2f00;
+}
+.wrapper-3Hk9OB {
+    background-color: #414242e0;
+border-bottom-left-radius: 10px;
+}
+.container-YkUktl {
+    height: 52px;
+    font-size: 14px;
+    font-weight: 500;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 8px 8px;
+    margin-bottom: 0px;
+background : black;
+}
+.button-12Fmur {
+    color: #ffffff;
+    border: 1px solid #4b4c4c;
+    border-radius: 50%;
+    padding: 2px;
+    background: linear-gradient(
+0deg
+, #535756, #353535, #747474);
+margin-right: 3px ;
+}
+*/ CHAT ------------------------------------------------------------------------------------------------------------------------------*/
+.form-3gdLxP {
+    margin-top: 0px;
+}
+.chat-2ZfjoI, .threadSidebar-1o3BTy {
+    background: #36393f00;
+}
+main.chatContent-3KubbW {
+background:black;
+
+}
+.messagesWrapper-RpOMA3 {
+    margin-bottom: 8px;
+    box-shadow: inset 0px 2px 7px #000000fc;
+}
+.messagesWrapper-RpOMA3.group-spacing-0{
+        background-image: linear-gradient(#55676e4d, #55676e36), url(http://www.netscape-communications.com/wp-content/uploads/2021/11/palmos5.jpeg);
+background-size:cover;
+border-radius:16px;
+--scrollbar-auto-track: #00000036;
+}
+.message-2CShn3 {
+border-bottom: 1px solid #00000042;
+    border-top: 1px solid #ffffff30;
+}
+.container-2sjPya {
+
+}
+.zalgo-26OfGz .messageContent-2t3eCI {
+    color: white;
+font-weight: 500;
+  text-shadow: 0px 0px 2px black;
+}
+.zalgo-26OfGz .username-h_Y3Us {
+    font-weight: 600;
+    color: white;
+  text-shadow: 1px 1px 2px black;
+}
+.repliedMessage-3Z6XBG {
+    color: #ffffff;
+}
+.repliedMessage-3Z6XBG.latin12CompactTimeStamp-2G5XJd {
+box-shadow: inset 1px 1px 2px #BCBCBC;
+border-radius: 10px;
+padding: 10px;
+background: linear-gradient(to right, #d6d6d65e, transparent, #d6d6d65e);
+}
+.embedMedia-1mdWSP {
+    border-radius: 4px;
+    border: 2px solid #ffffff5e;
+    box-shadow: 1px 1px 3px black;
+    border-bottom-width: 4px;
+}
+.messageAttachment-CZp8Iv {
+    position: relative;
+    border-radius: 4px;
+    border: 2px solid #ffffff5e;
+    box-shadow: 1px 1px 3px black;
+    border-bottom-width: 4px;
+}
+.attachment-1PZZB2 {
+    border-color: #a7a7a700;
+    background-color: #ffffff4a;
+}
+.embedFull-1HGV2S {
+    border-left: 0px solid #ffffff00;
+    background: linear-gradient(
+45deg
+, #00000012, #ffffff52, #ffffff24);
+    box-shadow: 1px 1px 3px black;
+    border: 3px solid #ffffff40;
+}
+.anchor-1MIwyf {
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+}
+.metadata-1E7Z4i {
+    font-weight: 400;
+    color: #e6e6e6;
+    margin-right: 8px;
+}
+.reaction-2A2y9y {
+    background: #ffffff00;
+    border: 0px solid transparent;
+}
+.reactionCount-1zkLcN {
+    font-weight: 600;
+    text-align: center;
+    color: #ffa500;
+    text-shadow: 0px 1px 3px black;
+}
+.isUnread-3Lojb- {
+    border-color: transparent;
+}
+.unreadPill-3nEWYM {
+    background-color: black;
+}
+.compact-2Nkcau .timestamp-p1Df1m, .cozy-VmLDNB .timestamp-p1Df1m.alt-1dvXnH {
+    text-align: right;
+    color: #ffa500;
+    text-shadow: 1px 1px 2px black;
+}
+.repliedMessage-3Z6XBG:before {
+    --spine-width: 0px;
+}
+.content-3spvdd {
+    background: linear-gradient(
+45deg
+, black, #000000a3, black);
+    color: #fff;
+    box-shadow: 0px 0px 4px black;
+}
+.markup-eYLPri a {
+    color: white;
+    text-shadow: 1px 1px black;
+    font-style: italic;
+}
+/* VOICE CHAT ------------------------------------------------------------------------------------------------------------------------------*/
+.list-2x9Cl9 {
+    padding-left: 0px;
+    padding-bottom: 7px;
+}
+.icon-N9JZb6, .username-vAneIW {
+    color: #ffffff;
+    text-shadow: 1px 1px 1px black;
+}
+/* VOICE BLOCK------------------------------------------------------------------------------------------------------------------------------ */
+.wrapper-3Hk9OB {
+    background-color: #437527;
+    border-radius: 12px;
+    background: linear-gradient(
+45deg
+, #1F6003, #64914C, #306315);
+margin-top: 3px;
+}
+.wrapper-3Hk9OB .lookFilled-yCfaCM.colorBrand-I6CyqQ {
+    border-radius: 18px;
+    background: linear-gradient( 
+0deg
+ ,#008204, #00000047, #00980591);
+    box-shadow: 0px 2px 3px #00000061;
+}
+.button-1EGGcP.buttonColor-3bP3fX, .button-1EGGcP .buttonColor-3bP3fX {
+    color: #d8d8d8;
+}
+.rtcConnectionStatusConnected-1c73OK {
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+.subtext-2HDqJ7 {
+    color: #ffffff;
+}
+.container-1zzFcN  .button-12Fmur {
+    color: #ffffff;
+    border: 1px solid #4b4c4c;
+    border-radius: 50%;
+    padding: 2px;
+    background: linear-gradient( 
+0deg
+ ,#008204, #00000047, #00980591);
+    box-shadow: 0px 2px 3px #00000061;
+}
+.theme-dark{
+--text-positive: #fff;
+}
+/* ACTIVITY DOWN ------------------------------------------------------------------------------------------------------------------------*/
+.activityPanel-9icbyU {
+    background: linear-gradient(
+0deg
+, #2F3032, #171717);
+    border-radius: 12px;
+    margin-top: 4px;
+    border-top: 1px solid #151717;
+    border-bottom: 1px solid #2F3334;
+}
+
+.panel-2ZFCRb {
+    padding: 5px;
+}
+/* CHAT DOWN ------------------------------------------------------------------------------------------------------------------------------*/
+.form-3gdLxP {
+    background: black;
+}
+.scrollableContainer-15eg7h {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: #000000;
+    max-height: 50vh;
+    border-radius: 0px;
+    scrollbar-width: none;
+}
+.unreadPillCapStroke-1nE1Q8 {
+    color: black;
+fill: black;
+}
+.newMessagesBar-1hF-9G {
+    top: 2px;
+    border-radius: 12px;
+    background-color: #000000e6;
+}
+.fontSize16Padding-XoMpjI {
+    padding-bottom: 0px;
+    padding-top: 4px;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 9px;
+    box-shadow: inset 0px 0px 0px #ffffff5c;
+    border-radius: 12px;
+    border-bottom: 1px solid #ffffff61;
+    border-top: 1px solid #ffffff17;
+    background: #ffffff17;
+    margin-left: 6px;
+}
+.placeholder-1_mJY1, .slateTextArea-27tjG0 .hljs-comment, .slateTextArea-27tjG0 .hljs-quote {
+    color: #dadada;
+
+display : none;
+}
+.button-2fCJ0o {
+    color: #ffffff;
+    border: 1px solid #4b4c4c;
+    border-radius: 50%;
+padding: 5px;
+    background: linear-gradient(
+0deg
+, #535756, #353535, #747474);
+}
+.emojiButton-3FRTuj {
+    color: #ffffff;
+    border: 1px solid #4b4c4c;
+    border-radius: 50%;
+    padding: 3px 4px;
+    background: linear-gradient( 
+0deg
+ , #535756, #353535, #747474);
+    margin: 4px 8px;
+}
+.attachButton-_ACFSu {
+    color: #ffffff;
+    border: 1px solid #4b4c4c;
+    border-radius: 50%;
+    padding: 0px 3px;
+    background: linear-gradient( 
+0deg
+ , #535756, #353535, #747474);
+    margin: 5px 0px;
+}
+.menu-1QACrS { /* bouton + */
+    background: #000000e8;
+    border-radius: 6px;
+    border: 3px solid #ffffff40;
+    box-shadow: 0px 0px 5px black;
+}
+.contentWrapper-3vHNP2 { */ menu emotes */
+    background-color: #2f3136c9;
+    border-radius: 12px;
+    grid-template-rows: 23px auto;
+    grid-row-gap: 3px;
+    height: 100%;
+    overflow: hidden;
+    padding-top: 1px;
+    border: 3px solid #00000061;
+    box-shadow: 0px 0px 5px black;
+}
+.emojiItemMedium-2stgkv {
+    box-shadow: 0px 0px 5px black;
+    padding: 0px;
+}
+.wrapper-1NNaWG {
+    height: 26px;
+    padding: 1px 0px;
+    margin-top: 3px;
+ background: linear-gradient( 
+45deg
+ , #1F6003, #64914C, #306315);
+}
+.header-1XpmZs {
+    color: #ffffff;
+    margin: auto;
+}
+.searchBar-2M9mRP {
+    border-radius: 17px;
+}
+.wrapper-22rqw6 {
+    background-color: #2022250d;
+}
+.categoryList-2GgCrD {
+    border-right: 1px solid #0000001a;
+}
+.inspector-DFKXwB {
+    background-color: #50505005;
+}
+/* BUDDY LIST RIGHT------------------------------------------------------------------------------------------------------------------------------ */
+.members-3WRCEx>div {
+background-color: #55676e8f;
+box-shadow: inset 0px 3px 3px #2E3C43;
+border-radius:12px;
+
+}
+.members-3WRCEx {
+    border-radius: 12px;
+    padding: 0px 0px 0px;
+    border-bottom: 0px solid #4B5E6A;
+    border-top: 0px solid #8697A0;
+    border-right: 0px solid #6E8089;
+    border-left: 2px solid #000;
+    margin-bottom: 0px;
+    background: #000000bf;
+    margin-right: 3px;
+}
+.container-2o3qEW {
+    background-image: linear-gradient(#55676e00, #55676e00), url();
+    background-size: cover;
+    height: 93.2%;
+    border-radius: 12px;
+    margin-left: 2px;
+    background: #000000;
+}
+.container-1oeRFJ {
+    padding: 0px 0;
+    border-radius: 4px;
+}
+.member-2gU6Ar {
+    margin-left: 0px;
+    border-bottom: 1px solid #4B5E6A;
+    border-top: 1px solid #8697A0;
+    border-right: 1px solid #5a6165;
+    border-left: 1px solid #6E8089;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    margin-bottom: 0px;
+    background: #869aaa7a;
+}
+.membersGroup-2eiWxl {
+    padding: 9px 8px 5px 13px;
+    height: 33px;
+text-align: center;
+text-shadow: 0px 1px 2px black;
+color:white;
+}
+.name-3Vmqxm {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    color: white;
+    text-shadow: 0px 1px 2px #404040;
+}
+.avatar-6qzftW {
+    width: 28px;
+    height: 28px;
+    margin-right: 15px;
+    margin-left: 0px;
+}
+.avatar-6qzftW .wrapper-1VLyxH svg foreignobject {
+    mask: none;
+    box-shadow: 1px 1px 5px rgb(0 0 0 / 89%);
+    border-top: 1px solid rgb(248 248 248 / 88%);
+    border-left: 1px solid rgb(195 195 195 / 85%);
+    border-right: 1px solid rgb(203 203 204 / 82%);
+    border-bottom: 2px solid rgb(239 239 239 / 82%);
+    border-radius: 5px;
+    background: linear-gradient( 
+135deg
+ ,transparent,transparent,rgb(243 243 243 / 49%),transparent,transparent,transparent,transparent,transparent,transparent,transparent,transparent,transparent,rgb(224 224 224 / 42%),transparent);
+}
+.activity-2EQDZv {
+    color: #d2d2d2;
+}
+.botTagRegular-kpctgU {
+    background: linear-gradient(
+45deg
+, black, #000000a3, black);
+    color: #fff;
+    box-shadow: 0px 0px 4px black;
+}
+.ownerIcon-255uKo {
+    background: linear-gradient(
+45deg
+, black, #000000a3, black);
+    color: #fff;
+    box-shadow: 0px 0px 4px black;
+}
+.icon-1dGlZy {
+    top: -1px;
+}
+.scrollerBase-_bVAAt {
+display:hidden;
+}
+/* STREAM -------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.callContainer-HtHELf {
+    background: radial-gradient(#5f5f5f, #000000);
+}
+.videoFrame-3Kvwh-, .videoWrapper-2O4_ct {
+    -webkit-box-flex: 1;
+    position: relative;
+    box-shadow: 0px 0px 16px #016d31;
+    border-radius: 12px;
+    border: 1px solid #d2d2d200;
+}
