@@ -1,2 +1,2 @@
-# forkofdiscordthemee
-My fork of discord theme, original made by kamuisuki on winclassic.net
+# Palm WebOS +
+My fork of the Palm WebOS Discord theme, original made by kamuisuki on winclassic.net
